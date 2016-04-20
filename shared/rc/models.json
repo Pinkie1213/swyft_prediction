@@ -43,7 +43,7 @@
         "label" : "Phrase",
         "help"  : "Enter a text comment for sentiment analysis",
         "rows"  : "1",
-        "cols"  : "50"
+        "cols"  : "100"
       }
     ]
   }
